@@ -52,14 +52,23 @@
 
 ## 🚀 Major Projects
 
-### 🔹 [Food Rescue](https://github.com/sarthakdubeyy12/FoodRescue)
-> A full-stack food donation and pickup coordination platform with role-based dashboards, Razorpay payments, JWT auth, and admin approval workflows.
+### 🔧 Full Stack Projects
 
-### 🔹 [Job Dekho](https://github.com/sarthakdubeyy12/Job-Dekho)
-> A real-time job portal for recruiters and job seekers with Firebase-based secure login, admin dashboard, and recruiter-specific tools.
+#### 🔹 [Food Rescue](https://github.com/sarthakdubeyy12/FoodRescue)
+> A full-stack food donation and pickup coordination platform with role-based dashboards, Razorpay payments, JWT auth, and admin approval workflows. Live deployment facilitates real-time food recovery and logistics.
 
-### 🔹 [Health-O-Plus](https://github.com/sarthakdubeyy12/Health-O-Plus)
-> Doctor appointment system with 3-tier auth (patients, doctors, admin), Razorpay payments, Cloudinary uploads, and a complete booking lifecycle.
+#### 🔹 [Job Dekho](https://github.com/sarthakdubeyy12/Job-Dekho)
+> A real-time job portal connecting recruiters and job seekers. Features include dynamic job listings, Firebase-secured authentication, admin dashboard, and recruiter-specific role-based tools.
+
+#### 🔹 [Health-O-Plus](https://github.com/sarthakdubeyy12/Health-O-Plus)
+> Doctor appointment system with role-based dashboards for Patients, Doctors, and Admins. Includes JWT auth, Razorpay payments, appointment lifecycle management, and Cloudinary image uploads.
+
+---
+
+### 🎨 Frontend Projects
+
+#### 🎯 [Dubey Construction](https://github.com/sarthakdubeyy12/DubeyConstructionn)
+> A responsive frontend website for a construction business. Built with modern HTML, CSS, JavaScript, and enhanced UI using Bootstrap and Tailwind CSS. Designed to showcase services and contact details with a professional look and feel.
 
 ---
 
