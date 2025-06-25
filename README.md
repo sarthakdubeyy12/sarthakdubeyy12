@@ -67,7 +67,7 @@
 
 ### 🎨 Frontend Projects
 
-#### 🎯 [Dubey Construction](https://github.com/sarthakdubeyy12/DubeyConstructionn)
+#### 🎯 [Dubey Construction](https://github.com/sarthakdubeyy12/Dubey-Construction)
 > A responsive frontend website for a construction business. Built with modern HTML, CSS, JavaScript, and enhanced UI using Bootstrap and Tailwind CSS. Designed to showcase services and contact details with a professional look and feel.
 
 ---
