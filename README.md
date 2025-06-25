@@ -77,7 +77,6 @@
 - 🧠 Solved **250+** DSA problems on **LeetCode**
 - 🥇 Completed **AWS Solutions Architect Associate (Training)**, Ethnus Full Stack MERN Program, JP Morgan Virtual Internship, Postman & Cisco Certifications
 - 🚀 Deployed & scaled projects live using **Vercel** and **MongoDB Atlas**
-- 🎤 General Secretary at **VITRONIX** Club, led major events & workshops
 
 ---
 
