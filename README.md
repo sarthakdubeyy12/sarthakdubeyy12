@@ -78,14 +78,6 @@
 - 🥇 Completed **AWS Solutions Architect Associate (Training)**, Ethnus Full Stack MERN Program, JP Morgan Virtual Internship, Postman & Cisco Certifications
 - 🚀 Deployed & scaled projects live using **Vercel** and **MongoDB Atlas**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakdubeyy12&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdubeyy12&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
