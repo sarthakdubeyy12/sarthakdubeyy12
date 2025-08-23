@@ -89,14 +89,6 @@
 
 ---
 
-## 🌱 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakdubeyy12&theme=react-dark" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-dubeysarthak47@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysarthak47@gmail.com)
