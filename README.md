@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/sarthakdubeyy12/sarthakdubeyy12/main/git.png" 
        alt="Poster" 
        width="100%" 
-       height="300px" 
+       height="100px" 
        style="object-fit: cover;" />
 </p>
 
