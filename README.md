@@ -1,73 +1,62 @@
-<h1 align="center">✨ Hey, I'm Sarthak Dubey ✨</h1>
+<!-- Background wrapper -->
+<div style="background: url('https://raw.githubusercontent.com/sarthakdubeyy12/sarthakdubeyy12/main/Screenshot.png') no-repeat center center fixed; background-size: cover; padding: 40px;">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106817181?v=4" width="180" style="border-radius:50%;" alt="Sarthak's Avatar"/>
-</p>
+  <!-- Content box -->
+  <div style="background-color: #fff9f2; border-radius: 16px; padding: 40px; max-width: 900px; margin: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
 
-<p align="center">
-  <b>Full Stack Developer • Open Source Enthusiast • Builder of Impactful Software</b>
-</p>
+  <h1 align="center">✨ Hi, I'm Sarthak Dubey ✨</h1>
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/106817181?v=4" width="150" style="border-radius:50%;" />
+  </p>
 
----
+  <p align="center"><b>Full Stack Developer | Open Source Enthusiast | Builder of Impactful Software</b></p>
+  <hr/>
 
-## 🧑‍🚀 About Me  
+  ## 👨‍💻 About Me  
+  - 🎓 B.Tech CSE student @ **VIT Bhopal (2022–2026)**  
+  - 💻 Passionate about building **secure & scalable apps**  
+  - 🌱 Exploring **Cloud, AI & API integrations**  
+  - 🚀 Mission: **Code that creates social impact** 🌍  
+  - ⚡ Fun fact: I love turning **design + tech** into meaningful user experiences  
 
-- 🎓 B.Tech CSE @ **VIT Bhopal (2022–2026)**  
-- 💻 Building **secure, scalable, real-world apps**  
-- 🌱 Exploring **Cloud, AI, and API integrations**  
-- 🚀 Mission: **Code for social impact** (like my project *Food Rescue* 🌍)  
-- ⚡ Fun Fact: I love blending **tech + design** to create meaningful user experiences  
+  ---
 
----
+  ## 🛠️ Tech Stack  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,tailwind,bootstrap,fastapi,mongodb,mysql,firebase,git,github,postman,selenium,vercel&perline=8" />
+  </p>
 
-## 🛠️ Tech Stack  
+  ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,tailwind,bootstrap,fastapi,mongodb,mysql,firebase,git,github,postman,selenium,vercel&perline=8" />
-</p>
+  ## 🚀 Projects  
+  <p align="center">
+    <a href="https://github.com/sarthakdubeyy12/FoodRescue">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=FoodRescue&theme=radical" />
+    </a>
+    <a href="https://github.com/sarthakdubeyy12/Job-Dekho">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Job-Dekho&theme=radical" />
+    </a>
+  </p>
 
----
+  ---
 
-## 🚀 Featured Projects  
+  ## 🏆 Achievements  
+  - 🧩 Solved **250+ DSA problems** on LeetCode  
+  - 🥇 Completed **AWS Solutions Architect Associate (Training)**, Ethnus MERN Program  
+  - 💼 Internships & Certifications: **JP Morgan, Postman, Cisco**  
+  - 🌐 Projects live on **Vercel + MongoDB Atlas**  
 
-<p align="center">
-  <a href="https://github.com/sarthakdubeyy12/FoodRescue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=FoodRescue&theme=radical" />
-  </a>
-  <a href="https://github.com/sarthakdubeyy12/Job-Dekho">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Job-Dekho&theme=radical" />
-  </a>
-</p>
+  ---
 
-<p align="center">
-  <a href="https://github.com/sarthakdubeyy12/Health-O-Plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Health-O-Plus&theme=radical" />
-  </a>
-  <a href="https://github.com/sarthakdubeyy12/Dubey-Construction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Dubey-Construction&theme=radical" />
-  </a>
-</p>
+  ## 📬 Connect with Me  
+  <p align="center">
+    <a href="mailto:dubeysarthak47@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+    <a href="https://portfolio-one-delta-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=vercel" /></a>
+    <a href="https://linkedin.com/in/sarthak-dubey13/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+    <a href="https://github.com/sarthakdubeyy12"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
+  </p>
 
----
+  <p align="center"><i>“Don’t watch the clock; do what it does. Keep going.”</i></p>
 
-## 🏆 Achievements  
-
-- 🧩 Solved **250+ DSA problems** on LeetCode  
-- 🥇 Trained in **AWS Solutions Architect Associate** & **Ethnus MERN Program**  
-- 💼 Completed **JP Morgan Virtual Internship, Postman & Cisco Certifications**  
-- 🌐 Projects deployed live with **Vercel + MongoDB Atlas**  
-
----
-
-## 📬 Connect with Me  
-
-<p align="center">
-  <a href="mailto:dubeysarthak47@gmail.com"><img src="https://img.shields.io/badge/Gmail-dubeysarthak47%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square" /></a>
-  <a href="https://portfolio-one-delta-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=vercel&style=flat-square" /></a>
-  <a href="https://linkedin.com/in/sarthak-dubey13/"><img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Dubey-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="https://github.com/sarthakdubeyy12"><img src="https://img.shields.io/badge/GitHub-sarthakdubeyy12-black?logo=github&style=flat-square" /></a>
-</p>
-
----
-
-<p align="center"><i>“Don’t watch the clock; do what it does. Keep going.”</i></p>
+  </div>
+</div>
