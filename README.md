@@ -1,12 +1,12 @@
 <!-- Full-bleed poster background wrapper -->
 <div style="
-  background-image: url('https://raw.githubusercontent.com/sarthakdubeyy12/sarthakdubeyy12/main/assets/poster.png');
+  background-image: url('https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  min-height: 100vh;   /* ensures full screen at minimum */
-  padding: 32px 0;     /* breathing room around the inner box */
+  min-height: 100vh;   /* full screen at minimum */
+  padding: 32px 0;     
   box-sizing: border-box;
 ">
 
