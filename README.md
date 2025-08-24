@@ -1,29 +1,15 @@
-<!-- Poster background -->
-
-
-<!-- Translucent Content Box -->
 <p align="center">
   <img src="https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true" 
        alt="Poster" 
        width="100%" 
        height="350px" 
-       style="object-fit: cover;" />
+       style="object-fit: cover; animation: float 4s ease-in-out infinite;" />
 </p>
 
-<h1>✨ Hi, I'm Sarthak Dubey ✨</h1>
-<p><b>Full Stack Developer • Open Source Enthusiast • Building for Impact</b></p>
-
----
-
-### 👨‍💻 About Me
-- 🎓 B.Tech CSE @ VIT Bhopal (2022–2026)  
-- 💡 Secure & scalable real-world apps  
-- 🌱 Exploring **Cloud, AI, API integrations**  
-- 🚛 Mission: **Food Rescue and social-impact software**  
-
----
-
-### 🛠️ Tech Stack  
-React • Node.js • Express • MongoDB • Tailwind • Firebase • Git  
-
-</div>
+<style>
+@keyframes float {
+  0%   { transform: translateY(0px); }
+  50%  { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+</style>
