@@ -1,87 +1,52 @@
-<!-- Full-bleed poster background wrapper -->
-<div style="
-  background-image: url('https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 100%;
-  min-height: 100vh;   /* full screen at minimum */
-  padding: 32px 0;     
-  box-sizing: border-box;
-">
+<!-- Full-width Poster -->
+<p align="center">
+  <img src="https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true" alt="Banner" width="100%" />
+</p>
 
-  <!-- Content box -->
-  <div style="
-    background-color:#fff9f2;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 40px 32px;
-    border-radius: 18px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.18);
-  ">
+---
 
-  <h1 align="center">✨ Hi, I'm Sarthak Dubey ✨</h1>
+## 👋 Hi, I'm Sarthak Dubey  
 
-  <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/106817181?v=4" width="150" style="border-radius:50%;" alt="Sarthak avatar"/>
-  </p>
+🚀 Passionate about **Web Development, MERN Stack, and Open Source**.  
+💡 Always curious to learn and build impactful projects.  
 
-  <p align="center"><b>Full Stack Developer • Open Source Enthusiast • Building for Impact</b></p>
+---
 
-  <hr/>
+## 🔧 Tech Stack  
 
-  ## 👨‍💻 About Me
-  - 🎓 B.Tech CSE @ **VIT Bhopal (2022–2026)**
-  - 💻 Secure & scalable real-world apps
-  - 🌱 Exploring **Cloud, AI, API integrations**
-  - 🚛 Mission: **Food Rescue** and social-impact software
+- **Frontend:** React, Redux, HTML, CSS, Tailwind, SCSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Others:** Git, Firebase, Supabase, REST APIs  
 
-  ---
+---
 
-  ## 🛠️ Tech Stack
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,tailwind,bootstrap,fastapi,mongodb,mysql,firebase,git,github,postman,selenium,vercel&perline=8" />
-  </p>
+## 📂 Featured Projects  
 
-  ---
+🔹 [AI Legal Assistant](https://github.com/...) – A MERN stack AI-powered legal research tool  
+🔹 [FoodRescue](https://github.com/...) – A food donation & volunteer coordination platform  
+🔹 [Job Portal](https://github.com/...) – A role-based job hiring & recruiter system  
 
-  ## 🚀 Featured Projects
-  <p align="center">
-    <a href="https://github.com/sarthakdubeyy12/FoodRescue">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=FoodRescue&theme=transparent&hide_border=true" />
-    </a>
-    <a href="https://github.com/sarthakdubeyy12/Job-Dekho">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Job-Dekho&theme=transparent&hide_border=true" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/sarthakdubeyy12/Health-O-Plus">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Health-O-Plus&theme=transparent&hide_border=true" />
-    </a>
-    <a href="https://github.com/sarthakdubeyy12/Dubey-Construction">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakdubeyy12&repo=Dubey-Construction&theme=transparent&hide_border=true" />
-    </a>
-  </p>
+---
 
-  ---
+## 📊 GitHub Stats  
 
-  ## 🏆 Achievements
-  - 🧩 **250+** LeetCode problems
-  - 🥇 AWS SAA (Training), Ethnus MERN
-  - 💼 JP Morgan Virtual Internship, Postman, Cisco
-  - 🌐 Deployed on **Vercel + MongoDB Atlas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakdubeyy12&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdubeyy12&layout=compact&theme=radical" height="180" />
+</p>
 
-  ---
+---
 
-  ## 📬 Connect
-  <p align="center">
-    <a href="mailto:dubeysarthak47@gmail.com"><img src="https://img.shields.io/badge/Gmail-dubeysarthak47%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-    <a href="https://portfolio-one-delta-29.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?logo=vercel" /></a>
-    <a href="https://linkedin.com/in/sarthak-dubey13/"><img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Dubey-blue?logo=linkedin" /></a>
-    <a href="https://github.com/sarthakdubeyy12"><img src="https://img.shields.io/badge/GitHub-sarthakdubeyy12-black?logo=github" /></a>
-  </p>
+## 🌐 Connect With Me  
 
-  <p align="center"><i>“Don’t watch the clock; do what it does. Keep going.”</i></p>
-
-  </div>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sarthakdubeyy12">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
+</p>
