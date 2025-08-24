@@ -1,5 +1,5 @@
 <!-- Background wrapper -->
-<div style="background: url('https://raw.githubusercontent.com/sarthakdubeyy12/sarthakdubeyy12/main/Screenshot.png') no-repeat center center fixed; background-size: cover; padding: 40px;">
+<div style="background: url('[https://raw.githubusercontent.com/sarthakdubeyy12/sarthakdubeyy12/main/Screenshot.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fabstract-art-paper-cutting-6994323%2F&psig=AOvVaw2Zv1Nr2MUyhPY7P72EvkjB&ust=1756124937628000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJD396y5o48DFQAAAAAdAAAAABAE)') no-repeat center center fixed; background-size: cover; padding: 40px;">
 
   <!-- Content box -->
   <div style="background-color: #fff9f2; border-radius: 16px; padding: 40px; max-width: 900px; margin: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
