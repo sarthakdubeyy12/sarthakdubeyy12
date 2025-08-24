@@ -29,14 +29,6 @@
 
 ---
 
-## 🏆 Achievements
-- AWS Solutions Architect – Associate (Training)  
-- Postman API Fundamentals Certification  
-- JP Morgan Virtual Internship  
-- Solved **250+ DSA Problems** on LeetCode  
-
----
-
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthakdubeyy12&show_icons=true&theme=radical" height="180"/>
@@ -56,7 +48,7 @@
 ## 📬 Connect
 <p align="center">
   <a href="mailto:dubeysarthak47@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="sarthak-portfolio-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-blue?logo=vercel" /></a>
+  <a href="https://sarthak-portfolio-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-blue?logo=vercel" /></a>
   <a href="https://linkedin.com/in/sarthak-dubey13/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="https://github.com/sarthakdubeyy12"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
 </p>
