@@ -1,52 +1,25 @@
-<!-- Full-width Poster -->
+<!-- Poster background -->
 <p align="center">
-  <img src="https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true" alt="Poster" width="100%" />
 </p>
 
----
+<!-- Translucent Content Box -->
+<div align="center" style="background-color: rgba(255, 249, 242, 0.85); padding: 30px; border-radius: 15px; margin-top: -250px; width: 80%;">
 
-## 👋 Hi, I'm Sarthak Dubey  
-
-🚀 Passionate about **Web Development, MERN Stack, and Open Source**.  
-💡 Always curious to learn and build impactful projects.  
-
----
-
-## 🔧 Tech Stack  
-
-- **Frontend:** React, Redux, HTML, CSS, Tailwind, SCSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Others:** Git, Firebase, Supabase, REST APIs  
+<h1>✨ Hi, I'm Sarthak Dubey ✨</h1>
+<p><b>Full Stack Developer • Open Source Enthusiast • Building for Impact</b></p>
 
 ---
 
-## 📂 Featured Projects  
-
-🔹 [AI Legal Assistant](https://github.com/...) – A MERN stack AI-powered legal research tool  
-🔹 [FoodRescue](https://github.com/...) – A food donation & volunteer coordination platform  
-🔹 [Job Portal](https://github.com/...) – A role-based job hiring & recruiter system  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakdubeyy12&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdubeyy12&layout=compact&theme=radical" height="180" />
-</p>
+### 👨‍💻 About Me
+- 🎓 B.Tech CSE @ VIT Bhopal (2022–2026)  
+- 💡 Secure & scalable real-world apps  
+- 🌱 Exploring **Cloud, AI, API integrations**  
+- 🚛 Mission: **Food Rescue and social-impact software**  
 
 ---
 
-## 🌐 Connect With Me  
+### 🛠️ Tech Stack  
+React • Node.js • Express • MongoDB • Tailwind • Firebase • Git  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sarthakdubeyy12">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
