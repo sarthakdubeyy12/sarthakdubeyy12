@@ -4,7 +4,7 @@
 </p>
 
 <!-- Translucent Content Box -->
-<div align="center" style="background-color: rgba(255, 249, 242, 0.85); padding: 30px; border-radius: 15px; margin-top: -250px; width: 80%;">
+<div align="center" style="background-color: rgba(255, 249, 242, 0.85); padding: 30px; border-radius: 15px; margin-top: -250px; width: 40%;">
 
 <h1>✨ Hi, I'm Sarthak Dubey ✨</h1>
 <p><b>Full Stack Developer • Open Source Enthusiast • Building for Impact</b></p>
