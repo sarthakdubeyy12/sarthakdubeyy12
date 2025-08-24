@@ -4,7 +4,13 @@
 </p>
 
 <!-- Translucent Content Box -->
-<div align="center" style="background-color: rgba(255, 249, 242, 0.85); padding: 10px; border-radius: 10px; margin-top: -150px; width: 40%;">
+<p align="center">
+  <img src="https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true" 
+       alt="Poster" 
+       width="100%" 
+       height="350px" 
+       style="object-fit: cover;" />
+</p>
 
 <h1>✨ Hi, I'm Sarthak Dubey ✨</h1>
 <p><b>Full Stack Developer • Open Source Enthusiast • Building for Impact</b></p>
