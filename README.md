@@ -1,7 +1,5 @@
 <!-- Poster background -->
-<p align="center">
-  <img src="https://github.com/sarthakdubeyy12/sarthakdubeyy12/blob/main/git.png?raw=true" alt="Poster" width="100%" />
-</p>
+
 
 <!-- Translucent Content Box -->
 <p align="center">
