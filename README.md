@@ -21,14 +21,6 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthakdubeyy12&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streak_since_May_1-118_days-blue?logo=github" height="25"/>
-</p>
-
-<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sarthakdubeyy12&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
 </p>
 
