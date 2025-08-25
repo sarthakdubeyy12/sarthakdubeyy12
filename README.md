@@ -1,10 +1,7 @@
-<!-- Poster -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarthakdubeyy12/sarthakdubeyy12/main/git.png" 
-       alt="Poster" 
-       width="100%" 
-       height="100px" 
-       style="object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/code.gif" 
+       alt="Coder Animation" 
+       width="100%" height="180" style="object-fit:cover; border-radius:12px;" />
 </p>
 
 ---
