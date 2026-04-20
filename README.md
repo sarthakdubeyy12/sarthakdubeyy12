@@ -5,118 +5,138 @@
 
 ## 🧰 Tech Stack
 
----
+<table>
 
-### 🖥️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" />
-</p>
-
----
+<tr>
+<td width="50%" align="center">
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,bootstrap,webpack" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,bootstrap,webpack,html,css" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flux-3578E5?style=flat&logo=react&logoColor=white" />
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Flux-3578E5?style=flat" />
+<img src="https://img.shields.io/badge/Enzyme-9B59B6?style=flat" />
 
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-</p>
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-005C97?style=flat" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=flat" />
-  <img src="https://img.shields.io/badge/SOAP-FF6C37?style=flat" />
-</p>
+<td width="50%" align="center">
 
----
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat" />
+<img src="https://img.shields.io/badge/REST_API-005C97?style=flat" />
+<img src="https://img.shields.io/badge/SOAP-FF6C37?style=flat" />
+<img src="https://img.shields.io/badge/WebSockets-000000?style=flat" />
+<img src="https://img.shields.io/badge/GraphQL-FF4081?style=flat" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,firebase,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,firebase,sqlite" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat" />
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/SQL-336791?style=flat" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat" />
 
-### 📨 Messaging & Streaming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-</p>
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=flat" />
-  <img src="https://img.shields.io/badge/Azure_Service_Bus-0089D6?style=flat" />
-</p>
+<td width="50%" align="center">
 
----
+### 📨 Messaging
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JMS-FF0000?style=flat" />
+<img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=flat" />
+<img src="https://img.shields.io/badge/Azure_Service_Bus-0089D6?style=flat" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 ### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,jenkins,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,jenkins,vercel" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat" />
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat" />
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat" />
+
+</td>
+
+<td width="50%" align="center">
 
 ### 🔌 API & Architecture
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql" />
-</p>
+<img src="https://skillicons.dev/icons?i=graphql" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat" />
-  <img src="https://img.shields.io/badge/Event_Driven-232F3E?style=flat" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat" />
-  <img src="https://img.shields.io/badge/RBAC-5C2D91?style=flat" />
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat" />
+<img src="https://img.shields.io/badge/Event_Driven-232F3E?style=flat" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat" />
+<img src="https://img.shields.io/badge/RBAC-5C2D91?style=flat" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 ### 🤖 AI & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat" />
-</p>
+<img src="https://img.shields.io/badge/LLM-412991?style=flat" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat" />
 
----
+</td>
 
-### 🧪 Testing & QA
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,selenium,postman" />
-</p>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat" />
-  <img src="https://img.shields.io/badge/TDD-FF6C37?style=flat" />
-</p>
+### 🧪 Testing
+<img src="https://skillicons.dev/icons?i=jest,selenium,postman" />
 
----
+<br/><br/>
 
-### 🛠️ Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,webpack" />
-</p>
+<img src="https://img.shields.io/badge/XUnit-5C2D91?style=flat" />
+<img src="https://img.shields.io/badge/NUnit-5C2D91?style=flat" />
+<img src="https://img.shields.io/badge/Mocha-8D6748?style=flat" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat" />
+<img src="https://img.shields.io/badge/TDD-FF6C37?style=flat" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🧠 Core Concepts
+<img src="https://img.shields.io/badge/Distributed_Systems-FF6F00?style=flat" />
+<img src="https://img.shields.io/badge/System_Design-232F3E?style=flat" />
+<img src="https://img.shields.io/badge/Scalable_Systems-0A66C2?style=flat" />
+<img src="https://img.shields.io/badge/Fault_Tolerance-8B0000?style=flat" />
+<img src="https://img.shields.io/badge/OOP_Design-5C2D91?style=flat" />
+<img src="https://img.shields.io/badge/Agile_SDLC-2496ED?style=flat" />
+
+</td>
+</tr>
+
+</table>
 
 ---
 
