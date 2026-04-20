@@ -1,5 +1,6 @@
-# ⚡ Sarthak Dubey  
-**Full Stack Developer | MERN | Cloud | API Integrations | Open Source**
+# Sarthak Dubey  
+
+###  Full Stack Engineer | MERN | Cloud-Native | Distributed Systems | AI & Automation  
 
 ---
 
