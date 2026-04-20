@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/REST_API-005C97?style=flat" />
 <img src="https://img.shields.io/badge/SOAP-FF6C37?style=flat" />
 <img src="https://img.shields.io/badge/WebSockets-000000?style=flat" />
-<img src="https://img.shields.io/badge/GraphQL-FF4081?style=flat" />
+<img src="https://img.shields.io/badge/GraphQL-FF4081?style=flat&logo=graphql&logoColor=white" />
 
 </td>
 </tr>
@@ -89,6 +89,7 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=flat" />
 <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat" />
 <img src="https://img.shields.io/badge/Event_Driven-232F3E?style=flat" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat" />
@@ -102,7 +103,7 @@
 
 ### 🤖 AI & Automation
 <img src="https://img.shields.io/badge/LLM-412991?style=flat" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 
 </td>
 
