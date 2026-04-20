@@ -142,15 +142,12 @@
 
 ---
 
-## 🚀 Key Projects
-- **[Food Rescue](https://github.com/sarthakdubeyy12/FoodRescue)** – Real-time food donation platform with **role dashboards**, JWT auth, Razorpay, Tailwind.  
-- **[Job Dekho](https://github.com/sarthakdubeyy12/Job-Dekho)** – Job portal with **Firebase-secured authentication**, recruiter tools, and admin dashboard.  
-- **[Health-O-Plus](https://github.com/sarthakdubeyy12/Health-O-Plus)** – Full-stack doctor appointment system with **Cloudinary uploads, Razorpay, JWT auth**.  
-- **[court-api-wrapper](https://github.com/sarthakdubeyy12/court-api-wrapper)** – Open-source **Node.js CLI + API wrapper** for CourtListener API.  
+## 📊 GitHub Activity & Stats
 
----
-
-## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakdubeyy12&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdubeyy12&theme=radical" height="170"/>
+</p>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sarthakdubeyy12&limit=5&theme=radical&combine_all_yearly_contributions=true" height="200"/>
